@@ -4,7 +4,7 @@
 
 #### Pre-requisites
 
-- Heroku account and [Foreman](https://www.theforeman.org) installed
+- A Heroku account, and [Foreman](https://www.theforeman.org) installed
 - Git
 - [virtualenv](https://pypi.python.org/pypi/virtualenv)
 - An AWS account that supports S3 & Route 53
