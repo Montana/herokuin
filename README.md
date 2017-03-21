@@ -1,6 +1,6 @@
-# Django, Heroku, S3 & Route 53 for Prowl template
+# Herokuin
 
-#### A project template for Django 1.6.2 with a production settings to easily deploy on Heroku with statics on S3.
+#### A project template for Django 1.6.2 with a production settings to easily deploy on Heroku with statics on S3 made for Prowl.
 
 #### Pre-requisites
 
