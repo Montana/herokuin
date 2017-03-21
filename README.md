@@ -55,8 +55,7 @@
     $ heroku run python hellodjango/manage.py collectstatic
 ```
 
-#### 7. Finally...
-
+#### 7. Finally
 ```
     $ heroku open
 ```
